@@ -1,5 +1,7 @@
 **Learning Objectives**
+
 The objectives of this course are to get you started with Python as a programming language and to give you a taste of how to start working with data in Python.
+
 In this course we will learn about:
 - What is Python and why it is useful
 - The application of Python 
